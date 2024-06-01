@@ -6,6 +6,7 @@ public class Operazioni {
 
     int a;
     int b;
+    
 
     public void somma(){
         int somma = a + b ;
